@@ -88,3 +88,9 @@ End time
 Location
 Description
 Event gets added to Google Calendar
+
+
+
+In your terminal, start the program by running:
+
+python app.py
